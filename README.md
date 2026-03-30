@@ -8,6 +8,10 @@ Campaign Details
 ElementContentTarget PersonaViolet — 23-year-old university studentCore MessageDiscover where you come fromCTAStart Your Story TodayLanding Page Links Toabgenealogy.ca
 
 Course Information
-CourseMARK414 – Digital MarketingSectionCC01TermWinter 2026InstructorDr. Rayyan SalmanCommunity PartnerAlberta Genealogical Society
+CourseMARK414 – Digital Marketing
+SectionCC01
+Term Winter 2026
+Instructor Dr. Rayyan Salman
+Community Partner Alberta Genealogical Society
 
 This is a conceptual project. No live campaigns or budgets were used.
